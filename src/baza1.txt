@@ -1,0 +1,13 @@
+luka 123 1 
+123 123 2 
+lukaka staje 3 
+aleksandar veliki 4 
+nena kljuc 5 
+ajde ajde 6 
+ide odmah 7 
+rr rr 8 
+tt tt 9 
+33 33 vas broj clanske karte je: 10 
+22 22 Vas broj clanske karte je: 11 
+12 12 Vas broj clanske karte je: 12 
+nevena zlato Vas broj clanske karte je: 13 

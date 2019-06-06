@@ -1,0 +1,23 @@
+******UPUTSTVO******
+
+*otvoriti fajl src
+*desnim klikom otvoriti termina ili precicom  CTRL+ALT+T
+*pozvati funkciju ./server
+* ponovo desnim klikom otvoriti termina ili precicom  CTRL+ALT+T
+*pozvati funkciju ./clietn
+
+*opcijom REGISTRACIJA korisnik dobija mogucnost da upise svoj USERNAME i svoj PASSWORD pri cemu mu se automatski dodaje i id tj broj clanske kartice
+
+*opcijom LOGIN korisnik dobija mogucnost da se prijavi koriscenjem ili USERNAME ili ID 
+
+*opcija 1(SEARCH ALL) reba da ispise sve automobile koje je moguce iznajmiti i koji su vec iznajmljeni
+*opcije 2 3 4 5 su namenjene za pretrazivanje na osnovu izabranog podatka(kompanija,model,godina,id)
+*opcija 6(RESERVE) omogucuje da se rentuje automobil koji nije zauzet
+*opcija 7(CHECK STATUS) daje informaciju da li je korisnik vec iznajmio neki od automobila
+*opcija 8 je LOGOUT nakon koje se ./client gasi
+
+
+
+Naziv aplikacije: Rent A Car
+Projekat Radili: Karan Luka i Laza Jakovljeic
+

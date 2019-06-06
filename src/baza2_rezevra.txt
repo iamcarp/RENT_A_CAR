@@ -1,0 +1,5 @@
+id:1  Manufactured:Audi  Model:A6  Year:2013
+id:2  Manufactured:Lancia  Model:Delta  Year:2008
+id:3  Manufactured:Zastava  Model:101  Year:1983
+id:4  Manufactured:FIAT  Model:Punto  Year:2013
+id:5  Manufactured:Alfa  Model:148  Year: 2006
